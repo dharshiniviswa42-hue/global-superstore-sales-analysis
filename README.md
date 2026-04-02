@@ -1,22 +1,22 @@
-# 🛒 Global Superstore Sales Analysis
+#  Global Superstore Sales Analysis
 
-## 📊 Project Overview
+##  Project Overview
 Sales analysis of Global Superstore dataset (51K rows) 
 using SQL, Excel and Power BI. The goal was to identify 
 top performing regions, categories, customer segments 
 and loss making products.
 
-## 🛠️ Tools Used
+##  Tools Used
 - **Excel** — Data Cleaning
 - **SQL (MySQL)** — Data Analysis
 - **Power BI** — Dashboard & Visualization
 
-## 📁 Dataset
+##  Dataset
 - 51,290 rows | 21 columns
 - Years: 2011–2014
 - Global sales data across 13 regions
 
-## 📝 SQL Queries & Analysis
+##  SQL Queries & Analysis
 
 ### Q1: Sales & Profit by Region
 ```sql
@@ -91,17 +91,17 @@ LIMIT 10;
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 1. Central region has highest sales ($2.8M)
 2. Technology is top selling category ($4.7M)
 3. Sales grew 90% from 2011 to 2014
 4. Consumer segment most profitable ($749K)
 5. Cubify 3D Printer biggest loss maker (-$9,240)
 
-## 📸 Dashboard
+##  Dashboard
 ![Dashboard](superstore-dashboard.png)
 
-## 💡 Conclusion
+##  Conclusion
 This analysis reveals that the Central region and 
 Technology category drive the most revenue. Consumer 
 segment is the most profitable customer group. Sales 
