@@ -24,4 +24,4 @@ using SQL, Excel and Power BI.
 ## 📸 Dashboard
 ![Dashboard](superstore-dashboard.png)
 
-![Dashboard](superstore dashboard.png)
+
