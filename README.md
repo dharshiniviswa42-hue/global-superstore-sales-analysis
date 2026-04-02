@@ -29,7 +29,7 @@ Finding: Central region leads with $2.8M sales
 ![Q1](1.sql pro.png)
 
 
-### Q2: Sales by Category
+Q2: Sales by Category
 SELECT category,
 ROUND(SUM(sales),2) AS total_sales
 FROM sales_project
@@ -41,7 +41,7 @@ Finding: Technology is top category at $4.7M
 ![Q2](2.sql pro.png)
 
 
-### Q3: Sales by Year
+Q3: Sales by Year
 SELECT year,
 ROUND(SUM(sales),2) AS total_sales
 FROM sales_project
@@ -53,7 +53,7 @@ Finding: Sales grew 90% from 2011 to 2014
 ![Q3](3.sql pro.png)
 
 
-### Q4: Profit by Segment
+Q4: Profit by Segment
 SELECT segment,
 ROUND(SUM(profit),2) AS total_profit
 FROM sales_project
@@ -65,7 +65,7 @@ Finding: Consumer segment most profitable at $749K
 ![Q4](4.sql pro.png)
 
 
-### Q5: Loss Making Products
+Q5: Loss Making Products
 SELECT product_name,
 ROUND(SUM(profit),2) AS total_profit
 FROM sales_project
