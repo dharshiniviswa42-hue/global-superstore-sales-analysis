@@ -11,7 +11,11 @@ and loss making products.
 - **SQL (MySQL)** — Data Analysis
 - **Power BI** — Dashboard & Visualization
 
-##  Dataset
+##  Dataset 
+- File: sales analysis project.csv 
+- Description: Cleaned dataset after removing duplicates, handling null values, and correcting data types  
+- Source: Kaggle - Superstore Sales Dataset  
+- Author: Aditi Saxena
 - 51,290 rows | 21 columns
 - Years: 2011–2014
 - Global sales data across 13 regions
