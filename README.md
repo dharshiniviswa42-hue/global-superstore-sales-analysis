@@ -22,5 +22,6 @@ using SQL, Excel and Power BI.
 5. Cubify 3D Printer biggest loss maker (-$9,240)
 
 ## 📸 Dashboard
+![Dashboard](superstore-dashboard.png)
 
 ![Dashboard](superstore dashboard.png)
