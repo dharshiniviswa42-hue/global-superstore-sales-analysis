@@ -31,7 +31,7 @@ Sales analysis of the Global Superstore dataset (51K rows) using Excel, SQL and 
 
 ---
 
-## 🧹 Data Cleaning (Excel)
+##  Data Cleaning (Excel)
 
 - Removed duplicate rows
 - Handled null/missing values
