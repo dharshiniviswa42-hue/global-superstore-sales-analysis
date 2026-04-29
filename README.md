@@ -1,4 +1,4 @@
-```markdown
+
 #  Global Superstore Sales Analysis
 
 ##  Project Overview
@@ -188,5 +188,5 @@ LIMIT 10;
 This analysis reveals that the Central region and Technology category are the primary revenue drivers. The Consumer segment delivers the highest profitability, making it a key target for retention strategies. The consistent 90% sales growth from 2011 to 2014 signals strong business momentum.
 
 However, products like Cubify 3D Printer are generating significant losses, indicating potential pricing or discount policy issues that require immediate review. These insights can directly inform inventory planning, marketing budget allocation, and product strategy decisions.
-```
+
 
